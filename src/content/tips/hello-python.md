@@ -2,7 +2,7 @@
 title: "Hello Python"
 pubDate: 2024-02-05
 description: "Hello this is my first recommendation"
-image: "https://api.lorem.space/image/movie?w=150&h=220"
+image: "https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 tags: ["astro","javascript"]
 layout: "../../layouts/Posts.astro"
 

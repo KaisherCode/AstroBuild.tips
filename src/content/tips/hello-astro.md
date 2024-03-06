@@ -2,7 +2,7 @@
 title: "Hello Astro"
 pubDate: 2023-12-31
 description: "Hello this is my first recommendation"
-image: "https://api.lorem.space/image/dashboard?w=150&h=150"
+image: "https://images.unsplash.com/photo-1707343848723-bd87dea7b118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 tags: ["astro","javascript"]
 layout: "../../layouts/Posts.astro"
 ---
