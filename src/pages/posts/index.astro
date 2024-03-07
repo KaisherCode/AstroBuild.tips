@@ -46,8 +46,7 @@ const posts = (await getCollection("tips")).sort(
 		<Header title="AstroBuild.tips"/>
 		<Hero/>
 
-		<ul role="list" class="link-card-grid">
-      {
+		<ul role="list" class="link-card-grid">{
 				posts.map((post) => (
 					<Card
 						title={post.data.title}
